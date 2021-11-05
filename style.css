@@ -1,0 +1,25 @@
+body {
+	background: black;
+	color:  #55ff00;
+	font-family: monospace;
+	font-size: 2em;
+}
+
+button {
+	background: #55ff00;
+	border: 1px solid green;
+	color:  black;
+	font-size: 0.7em;
+}
+
+input {
+	font-size: 0.5em;
+}
+
+.done {
+	text-decoration: line-through;
+}
+
+li {
+	padding: 5px;
+}
