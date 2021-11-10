@@ -58,7 +58,7 @@ function crossOff(l) {
 // CLEARING LIST
 
 function ItemsOff() {
-	ul.innerHTML = "";
+	ul.replaceChildren("");
 }
 
 
